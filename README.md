@@ -46,7 +46,6 @@ mode = "PROD"    # "DEBUG" / "PROD"
 Run with:
 ```
 python run.py
-nohup python run.py &
 ```
 You can also build and use the docker image:
 ```
@@ -80,7 +79,7 @@ Install the dependencies via pip: <br>
 `pip3 install -r requirements.txt`.
 
 Install PyTorch: <br>
-`pip3 install http://download.pytorch.org/whl/cpu/torch-0.3.1-cp36-cp36m-linux_x86_64.whl`
+`pip3 install http://download.pytorch.org/whl/cpu/torch-0.3.1-cp36-cp36m-linux_x86_64.whl` <br>
 `pip3 install torchvisio`
 
 
