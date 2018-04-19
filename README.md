@@ -1,4 +1,4 @@
-# WebCrauler with Captcha resolver (using CNN neural network on pyTorch)
+# WebCrawler with Captcha resolver (using CNN neural network on pyTorch)
 Bot for parse domain with Captcha protection
 
 ## Usage
