@@ -1,0 +1,13 @@
+numpy==1.13.3
+pandas==0.20.1
+PyVirtualDisplay==0.2.1
+matplotlib==2.1.1
+opencv_python==3.4.0.12
+scipy==0.19.1
+selenium==3.11.0
+python_telegram_bot==10.0.2
+schedule==0.5.0
+user_agent==0.1.9
+Pillow==5.1.0
+beautifulsoup4==4.6.0
+seaborn==0.8.1
